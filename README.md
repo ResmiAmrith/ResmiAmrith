@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ResmiAmrith. I am a post-doctoral researcher at the Artificial Intelligence and Integrated Computer Systems, Department of Computer and Information Sciences, Linkoping University, Sweden
-- 👀 I’m interested in privacy-preserving machine learning and synthetic time series data generation and all machine learning models
-- 🌱 I’m currently learning fairness in synthetic data generation
-- 📫 How to reach me resmiramachandranpillai@gmail.com
+- 👋 Hi, I’m Resmi Ramachandranpillai. I am a post-doctoral research associate at the Responsible Artificial Intelligence group, Institute of Experiential AI, Northeastern University, USA. 
+- 👀 I’m interested in developing responsible machine learning and deep learning models, privacy-preserving machine learning, and fair synthetic data generation.
+- 🌱 
+- 📫 How to reach me resmiramachandranpillai@gmail.com; r.ramachandranpillai@northeastern.edu
 
 <!---
 ResmiAmrith/ResmiAmrith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
